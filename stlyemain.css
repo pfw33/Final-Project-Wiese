@@ -1,0 +1,317 @@
+body{max-width: 1920px;
+	height: 600px;
+	overflow-x: hidden;
+}
+
+
+/*   MAIN PAGE   */
+
+#TheRock{ 
+		position: relative;
+		left: 490px;
+		width: 425px;
+		padding: 5px 0px 10px 0px;
+}
+
+
+#BurgerandDrums{
+		position: relative;
+		bottom: 5px;
+		border-bottom: 100px solid black;
+		border-bottom-color: #af5b00;
+}
+
+.orangeletters h1{
+		font-family: 'Archivo Black', sans-serif;
+		font-size: 60px;
+		color: #f98948;
+		text-shadow: 5px 5px 16px black;
+}
+
+.orangeletters a{
+		font-family: 'Archivo Black', sans-serif;
+		font-size: 60px;
+		color: #f98948;
+		text-shadow: 5px 5px 16px black;
+		text-decoration: none;
+}
+
+.orangeletters a:hover{
+					color: #5d3a00;}
+
+a#Food {
+		position: relative;
+		bottom: 285px;
+		left: 250px;
+}
+
+#Events{
+		text-align: right;
+		position: relative;
+		bottom: 400px;
+		right: 250px;
+}
+
+.Slogan div{
+		color: black;	
+		background-color: #fff;
+}
+
+.Slogan h1{
+		font-family: 'Archivo Black', sans-serif;
+		color: white;
+		font-size: 30px;
+		text-align: center;
+		position: relative;
+		bottom: 345px;
+}
+
+.Slogan	h3{
+		font-family: 'Archivo Black', sans-serif;
+		color: white;
+		font-size: 15px;
+		font-weight: 50%;
+		text-align: center;
+		position: relative;
+		bottom: 365px;
+}
+
+#Mountain{
+		position: relative;
+		bottom: 370px;
+}
+
+.Story p{
+		font-family: 'Archivo Black', sans-serif;
+		color: white;
+		font-size: 16px;
+		text-align: center;
+		position: relative;		
+		bottom: 500px;
+		left: 280px;
+		width: 900px;
+}
+
+.contact1 {
+		font-size: 20px;
+		font-family: 'Archivo Black', sans-serif;
+		color: #fff; 
+		position: relative;
+		bottom: 615px;
+		left: 75px;
+}
+.contact {
+		font-family: 'Archivo Black', sans-serif;
+		font-size: 12px;
+		color: #fff; 
+		position: relative;
+		bottom: 630px;
+		left: 75px;
+}
+
+.hours1 { 
+		font-family: 'Archivo Black', sans-serif;
+		font-size: 20px;
+		color: #fff; 
+		position: relative;
+		bottom: 730px;
+		text-align: center;
+}
+
+.hours {
+		font-family: 'Archivo Black', sans-serif;
+		font-size: 12px;
+		color: #fff; 
+		position: relative;
+		bottom: 747px;
+		text-align: center;
+}
+
+#social {
+		position: relative;
+		bottom: 800px;
+		left: 1250px;
+}
+
+#footer {
+		position: relative;
+		bottom: 500px;
+}
+
+
+
+
+
+
+
+
+/*   MENU    */
+
+
+#TheRock2{ 
+		width: 25%;
+		margin: 2% 50% 5% 35%;
+}
+
+.MainHeader {
+	position: absolute;
+	top: 12%;
+	left: 16%;
+	width: 100%;
+	height: 60px;
+}
+
+.Food1, .Events1, .Community1, .Story1 {
+	margin: 0px;
+	padding: 0px 20px ;
+	font-size: 45px;
+	font-family: 'Archivo Black', sans-serif;
+	float: left;
+	color: #f98948;
+}
+
+.Breakfast, .Lunch, .Dinner {
+	font-family: 'Archivo Black', sans-serif;
+	float: left;
+	color: #000;
+	margin: .5% 3.5% 2% 15%;
+	font-size: 30px;
+	position: relative;
+	bottom: 40px;
+}
+
+#SubHeaderBox {
+	position: relative;
+	top: 30px;
+}
+
+.Breakfast {
+	margin-left: 17%;
+}
+
+#sandwhich {
+	margin: 0% 0% 0% 7%;
+}
+
+#Omelet {
+	margin: 0% 1% 0% 11%;
+}
+
+#Dilla {
+	margin: 0% 1% 0% 10%;
+}
+
+
+.sandwhichtext{
+	position: relative;
+	top: 18px;
+}
+
+.sandwhichheader, .sandwhichtext {
+	margin: 0% 5% 0% 13.5%;
+}
+
+.sandwhichheader, .omeletheader, .dillaheader, .burritoheader {
+	font-size: 15px;
+	font-family: 'Archivo Black';
+	margin-top: 1%;
+	float: left;
+	width: 250px;
+}
+
+.sandwhichtext, .omelettext, .dillatext, .burritotext {
+	font-size: 15px;
+	font-family: 'Archivo Narrow';
+	margin-top: 1%;
+	width: 250px;
+}
+
+mark.orange {
+	color: #f98948;
+	background: none;
+}
+
+.omeletheader, .omelettext {
+	margin: 3% 10px 1% 10%;
+	position: relative;
+	left: 31.5%;
+	bottom: 290px;
+}
+
+.dillaheader{
+	position: relative;
+	left: 66.5%;
+	bottom: 560px;
+	
+}
+
+.dillatext, .dillaheader {
+	margin-top: 1%;
+	position: relative;
+	left: 69.5%;
+	bottom: 560px;
+}
+
+.burritoheader, .burritotext {
+	margin-top: 1%;
+	position: relative;
+	left: 69.5%;
+	width: 260px;
+	bottom: 585px;
+}
+
+.contact3 {
+	font-size: 20px;
+	font-family: 'Archivo Black', sans-serif;
+	color: #fff; 
+	position: relative;
+	bottom: 705px;
+	left: 13.5%;
+}
+
+.contact2 {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 12px;
+	color: #fff; 
+	position: relative;	
+	bottom: 720px;
+	left: 13.5%;
+}
+
+.hours3 { 
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 20px;
+	color: #fff; 
+	position: relative;
+	bottom: 820px;
+	left: 41.5%;
+	text-align: left;	
+
+}
+
+.hours2 {
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 12px;
+	color: #fff; 
+	position: relative;
+	bottom: 837px;
+	left: 41.5%;
+	text-align: left;
+}
+
+#social1 {
+	position: relative;
+	bottom: 890px;
+	left: 1250px;
+
+}
+
+#footer1 {
+	position: relative;
+	bottom: 590px;
+}
+
+#MainContainer{
+	position: relative;
+	bottom: 20px;
+}
